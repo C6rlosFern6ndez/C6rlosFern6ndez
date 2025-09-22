@@ -54,7 +54,7 @@
 ---
 
 ### 🌐 Conéctate conmigo
-- 📧 [dominguezalacid@gmail.com](mailto:dominguezalacid@gmail.com)
+- 📧 [c6rlosfern6ndez@gmail.com](mailto:c6rlosfern6ndez@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-fernandez-gonzalez-a1025b263/)
 
 ---
