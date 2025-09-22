@@ -10,24 +10,37 @@
 
 ---
 
-### 🧑‍💻 Actualmente
-- 🌱 **Estudiando:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (IES Velázquez, Sevilla) 2024-2025
-- 🎓 **Formación reciente:** Ciberseguridad Avanzada en entornos de las tecnologías de la operación (Aprendea) 2025
-- 💼 **Experiencia:** Desarrollador Web Full Stack con experiencia en empresas como Quantum Solutions, Softcom y NTT DATA
-- 🎯 **Intereses:** Desarrollo web full stack, aplicaciones móviles, ciberseguridad, metodologías ágiles, y accesibilidad web
+### 🎓 Formación
+- **2024-2025:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma - IES Velázquez (Sevilla)
+- **2025:** Ciberseguridad Avanzada en entornos de las tecnologías de la operación (FPE) - Aprendea (Formación online)
+- **2022-2024:** Técnico Superior en Desarrollo de Aplicaciones Web - IES Sotero Hernández (San Juan de Aznalfarache, Sevilla)
+- **2020-2021:** Grado Medio de Microinformática y Redes - Centro Ilerna (Sevilla)
+- **2018:** FPE Confección y Publicación de Páginas Web (HTML, CSS y WordPress) - Formatec (Mairena del Aljarafe, Sevilla)
 
 ---
 
-### 📅 Mi viaje como desarrollador
-- **2018:** Formación en Confección y Publicación de Páginas Web (HTML, CSS y WordPress) - Formatec
-- **2020-2021:** Grado Medio de Microinformática y Redes - Centro Ilerna (Sevilla)
-- **2022:** **Primera experiencia profesional** como Desarrollador Web en **NTT DATA** (Java, Spring Boot, SQL Server)
-- **2022-2024:** Técnico Superior en Desarrollo de Aplicaciones Web - IES Sotero Hernández
-- **2023:** Desarrollador Web en **SOFTCOM** (Vue 3, Node.js, SQL Server, CI/CD)
-- **2023-2024:** Segundo período en **SOFTCOM** (Angular, Node.js, MongoDB, metodologías ágiles)
-- **2024-2025:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma - IES Velázquez
-- **2025:** Desarrollador Web en **QUANTUM SOLUTIONS** (HTML5, CSS, JavaScript, accesibilidad WAI-ARIA)
-- **2025:** Especialización en Ciberseguridad Avanzada - Aprendea
+### 💼 Experiencia Profesional
+- **QUANTUM SOLUTIONS** (Sevilla) - Desarrollador Web | *17/03/2025 – 13/06/2025*
+  - Implementé partes de la interfaz de usuario usando HTML5, CSS y JavaScript, enfocada en compatibilidad y accesibilidad
+  - Realicé pruebas de rendimiento que mejoraron los tiempos de carga y la experiencia de usuario
+  - Apliqué buenas prácticas WAI-ARIA para accesibilidad web
+  - Coordiné versiones y colaboraciones en equipo mediante Git y GitHub
+
+- **SOFTCOM** (Mairena del Aljarafe, Sevilla) - Desarrollador Web | *28/11/2023 – 14/06/2024*
+  - Desarrollé nuevas funcionalidades y mantenimientos con Angular, Node.js y MongoDB
+  - Participé en reuniones diarias y entregas, asegurando continuidad en el flujo de desarrollo
+  - Propuse y apliqué mejoras que redujeron la complejidad del frontend
+  - Gestioné ramas y pull requests con Git y GitHub
+
+- **SOFTCOM** (Mairena del Aljarafe, Sevilla) - Desarrollador Web | *08/03/2023 – 09/06/2023*
+  - Implementé vistas dinámicas con Vue 3 y conecté servicios backend con Node.js y SQL Server
+  - Contribuí a la depuración de errores críticos en producción, mejorando la estabilidad del sistema
+  - Trabajé en un flujo de CI/CD junto al equipo técnico
+
+- **NTT DATA** (Sevilla) - Desarrollador Web | *08/03/2022 – 09/06/2022*
+  - Desarrollé endpoints REST con Java (Spring Boot) y SQL Server, asegurando seguridad y eficiencia
+  - Participé en el diseño de base de datos y pruebas unitarias
+  - Adquirí experiencia práctica con metodologías de trabajo de grandes consultoras tecnológicas
 
 ---
 
@@ -124,31 +137,6 @@
 
 ---
 
-### 💼 Experiencia Profesional
-
-#### 🏢 **QUANTUM SOLUTIONS** - Desarrollador Web (Mar 2025 - Jun 2025)
-- Implementé interfaces de usuario con HTML5, CSS y JavaScript enfocadas en compatibilidad y accesibilidad
-- Realicé pruebas de rendimiento que mejoraron los tiempos de carga y la experiencia de usuario
-- Apliqué buenas prácticas WAI-ARIA para accesibilidad web
-- Coordiné versiones y colaboraciones en equipo mediante Git y GitHub
-
-#### 🏢 **SOFTCOM** - Desarrollador Web (Nov 2023 - Jun 2024)
-- Desarrollé nuevas funcionalidades y mantenimientos con Angular, Node.js y MongoDB
-- Participé en reuniones diarias y entregas, asegurando continuidad en el flujo de desarrollo
-- Propuse y apliqué mejoras que redujeron la complejidad del frontend
-- Gestioné ramas y pull requests con Git y GitHub
-
-#### 🏢 **SOFTCOM** - Desarrollador Web (Mar 2023 - Jun 2023)
-- Implementé vistas dinámicas con Vue 3 y conecté servicios backend con Node.js y SQL Server
-- Contribuí a la depuración de errores críticos en producción, mejorando la estabilidad del sistema
-- Trabajé en un flujo de CI/CD junto al equipo técnico
-
-#### 🏢 **NTT DATA** - Desarrollador Web (Mar 2022 - Jun 2022)
-- Desarrollé endpoints REST con Java (Spring Boot) y SQL Server, asegurando seguridad y eficiencia
-- Participé en el diseño de base de datos y pruebas unitarias
-- Adquirí experiencia práctica con metodologías de trabajo de grandes consultoras tecnológicas
-
----
 
 ### 🤝 ¿Colaboramos?
 Estoy buscando contribuir a proyectos interesantes y colaborar con otros desarrolladores. Si tienes alguna idea o proyecto, ¡escríbeme!  
