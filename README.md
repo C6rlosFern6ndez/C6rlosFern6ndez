@@ -11,36 +11,36 @@
 ---
 
 ### 🎓 Formación
-- **2024-2025:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma - IES Velázquez (Sevilla)
-- **2025:** Ciberseguridad Avanzada en entornos de las tecnologías de la operación (FPE) - Aprendea (Formación online)
-- **2022-2024:** Técnico Superior en Desarrollo de Aplicaciones Web - IES Sotero Hernández (San Juan de Aznalfarache, Sevilla)
-- **2020-2021:** Grado Medio de Microinformática y Redes - Centro Ilerna (Sevilla)
+- **15/07/2025 - 06/08/2025:** Ciber Seguridad Avanzada en entornos de las tecnologías de la operación (FPE) - Aprendea (Formación online)
+- **2024 - 2025:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma - IES Velázquez (Sevilla)
+- **2022 - 2024:** Técnico Superior en Desarrollo de Aplicaciones Web - IES Sotero Hernández (San Juan de Aznalfarache, Sevilla)
+- **2020 - 2021:** Grado Medio de Microinformática y Redes - Centro Ilerna (Sevilla)
 - **2018:** FPE Confección y Publicación de Páginas Web (HTML, CSS y WordPress) - Formatec (Mairena del Aljarafe, Sevilla)
 
 ---
 
 ### 💼 Experiencia Profesional
 - **QUANTUM SOLUTIONS** (Sevilla) - Desarrollador Web | *17/03/2025 – 13/06/2025*
-  - Implementé partes de la interfaz de usuario usando HTML5, CSS y JavaScript, enfocada en compatibilidad y accesibilidad
-  - Realicé pruebas de rendimiento que mejoraron los tiempos de carga y la experiencia de usuario
-  - Apliqué buenas prácticas WAI-ARIA para accesibilidad web
-  - Coordiné versiones y colaboraciones en equipo mediante Git y GitHub
+  - Implementé partes de la interfaz de usuario usando HTML5, CSS y JavaScript, enfocada en compatibilidad y accesibilidad.
+  - Realicé pruebas de rendimiento que mejoraron los tiempos de carga y la experiencia de usuario.
+  - Apliqué buenas prácticas WAI-ARIA para accesibilidad web.
+  - Coordiné versiones y colaboraciones en equipo mediante Git y GitHub.
 
 - **SOFTCOM** (Mairena del Aljarafe, Sevilla) - Desarrollador Web | *28/11/2023 – 14/06/2024*
-  - Desarrollé nuevas funcionalidades y mantenimientos con Angular, Node.js y MongoDB
-  - Participé en reuniones diarias y entregas, asegurando continuidad en el flujo de desarrollo
-  - Propuse y apliqué mejoras que redujeron la complejidad del frontend
-  - Gestioné ramas y pull requests con Git y GitHub
+  - Desarrollé nuevas funcionalidades y mantenimientos con Angular, Node.js y MongoDB.
+  - Participé en reuniones diarias y entregas, asegurando continuidad en el flujo de desarrollo.
+  - Propuse y apliqué mejoras que redujeron la complejidad del frontend.
+  - Gestioné ramas y pull requests con Git y GitHub.
 
 - **SOFTCOM** (Mairena del Aljarafe, Sevilla) - Desarrollador Web | *08/03/2023 – 09/06/2023*
-  - Implementé vistas dinámicas con Vue 3 y conecté servicios backend con Node.js y SQL Server
-  - Contribuí a la depuración de errores críticos en producción, mejorando la estabilidad del sistema
-  - Trabajé en un flujo de CI/CD junto al equipo técnico
+  - Implementé vistas dinámicas con Vue 3 y conecté servicios backend con Node.js y SQL Server.
+  - Contribuí a la depuración de errores críticos en producción, mejorando la estabilidad del sistema.
+  - Trabajé en un flujo de CI/CD junto al equipo técnico.
 
 - **NTT DATA** (Sevilla) - Desarrollador Web | *08/03/2022 – 09/06/2022*
-  - Desarrollé endpoints REST con Java (Spring Boot) y SQL Server, asegurando seguridad y eficiencia
-  - Participé en el diseño de base de datos y pruebas unitarias
-  - Adquirí experiencia práctica con metodologías de trabajo de grandes consultoras tecnológicas
+  - Desarrollé endpoints REST con Java (Spring Boot) y SQL Server, asegurando seguridad y eficiencia.
+  - Participé en el diseño de base de datos y pruebas unitarias.
+  - Adquirí experiencia práctica con metodologías de trabajo de grandes consultoras tecnológicas.
 
 ---
 
