@@ -1,22 +1,33 @@
 # 👋 ¡Hola! Soy Carlos
 
 ### 👨‍💻 Sobre mí
-¡Hola! Soy Carlos, un desarrollador apasionado por la creación de aplicaciones web y móviles con soluciones eficientes e innovadoras. Me encanta aprender tecnologías nuevas y trabajar en equipo para construir proyectos que marquen la diferencia.
+¡Hola! Soy Carlos Fernández González, un **Desarrollador Web Full Stack** con experiencia en desarrollo front-end y back-end usando tecnologías como Angular, Vue, Node.js, Java con Spring Boot. Tengo experiencia trabajando con metodologías ágiles (SCRUM), control de versiones (Git) y buenas prácticas de accesibilidad. Me apasiona crear aplicaciones escalables, eficientes, fáciles de mantener y centradas en el usuario.
+
+📱 **Teléfono:** 635 30 78 94  
+📧 **Email:** c6rlosfern6ndez@gmail.com  
+🌐 **Portafolio:** [https://portafolios-blond.vercel.app/](https://portafolios-blond.vercel.app/)  
+🚀 **Proyectos:** [https://whejhe.github.io/](https://whejhe.github.io/)
 
 ---
 
 ### 🧑‍💻 Actualmente
-- 🌱 Estoy estudiando: Desarrollo de Aplicaciones Multiplataformas (DAM).
-- 💼 Trabajo en: Proyectos personales y desarrollo de habilidades.
-- 🎯 Intereses: Desarrollo web, móvil e inteligencia artificial, Cine y Lectura (Expecialmente la novela fantastica).
+- 🌱 **Estudiando:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (IES Velázquez, Sevilla) 2024-2025
+- 🎓 **Formación reciente:** Ciberseguridad Avanzada en entornos de las tecnologías de la operación (Aprendea) 2025
+- 💼 **Experiencia:** Desarrollador Web Full Stack con experiencia en empresas como Quantum Solutions, Softcom y NTT DATA
+- 🎯 **Intereses:** Desarrollo web full stack, aplicaciones móviles, ciberseguridad, metodologías ágiles, y accesibilidad web
 
 ---
 
 ### 📅 Mi viaje como desarrollador
-- **2019:** Realice el ciclo de Grado Medio en Microinformatica y Redes.
-- **2021:** Comencé mis estudios en Desarrollo de Aplicaciones Web.
-- **2024:** Me matricule en Desarrollo de Aplicaciones Multiplataforma para ampliar mis conocimientos.
-- **2025:** Planifico contribuir a proyectos de código abierto y mejorar mi portafolio profesional.
+- **2018:** Formación en Confección y Publicación de Páginas Web (HTML, CSS y WordPress) - Formatec
+- **2020-2021:** Grado Medio de Microinformática y Redes - Centro Ilerna (Sevilla)
+- **2022:** **Primera experiencia profesional** como Desarrollador Web en **NTT DATA** (Java, Spring Boot, SQL Server)
+- **2022-2024:** Técnico Superior en Desarrollo de Aplicaciones Web - IES Sotero Hernández
+- **2023:** Desarrollador Web en **SOFTCOM** (Vue 3, Node.js, SQL Server, CI/CD)
+- **2023-2024:** Segundo período en **SOFTCOM** (Angular, Node.js, MongoDB, metodologías ágiles)
+- **2024-2025:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma - IES Velázquez
+- **2025:** Desarrollador Web en **QUANTUM SOLUTIONS** (HTML5, CSS, JavaScript, accesibilidad WAI-ARIA)
+- **2025:** Especialización en Ciberseguridad Avanzada - Aprendea
 
 ---
 
@@ -37,19 +48,57 @@
 ---
 
 ### 🛠️ Tecnologías y herramientas
-<div style="display: flex; flex-wrap: wrap;">
+
+#### 💻 **Lenguajes de Programación**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS">
 </div>
+
+#### 🎨 **Frontend**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery">
+</div>
+
+#### ⚙️ **Backend**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot">
+</div>
+
+#### 🗄️ **Bases de Datos**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="Sequelize">
+</div>
+
+#### 🛠️ **Herramientas y Control de Versiones**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse">
+</div>
+
+#### 🔧 **Otras Competencias**
+- **Metodologías:** SCRUM, CI/CD
+- **Accesibilidad:** WAI-ARIA, Responsive Design
+- **Sistemas Operativos:** Windows, Linux
+- **Idiomas:** Inglés (Nivel Intermedio)
 
 ---
 
@@ -75,6 +124,32 @@
 
 ---
 
+### 💼 Experiencia Profesional
+
+#### 🏢 **QUANTUM SOLUTIONS** - Desarrollador Web (Mar 2025 - Jun 2025)
+- Implementé interfaces de usuario con HTML5, CSS y JavaScript enfocadas en compatibilidad y accesibilidad
+- Realicé pruebas de rendimiento que mejoraron los tiempos de carga y la experiencia de usuario
+- Apliqué buenas prácticas WAI-ARIA para accesibilidad web
+- Coordiné versiones y colaboraciones en equipo mediante Git y GitHub
+
+#### 🏢 **SOFTCOM** - Desarrollador Web (Nov 2023 - Jun 2024)
+- Desarrollé nuevas funcionalidades y mantenimientos con Angular, Node.js y MongoDB
+- Participé en reuniones diarias y entregas, asegurando continuidad en el flujo de desarrollo
+- Propuse y apliqué mejoras que redujeron la complejidad del frontend
+- Gestioné ramas y pull requests con Git y GitHub
+
+#### 🏢 **SOFTCOM** - Desarrollador Web (Mar 2023 - Jun 2023)
+- Implementé vistas dinámicas con Vue 3 y conecté servicios backend con Node.js y SQL Server
+- Contribuí a la depuración de errores críticos en producción, mejorando la estabilidad del sistema
+- Trabajé en un flujo de CI/CD junto al equipo técnico
+
+#### 🏢 **NTT DATA** - Desarrollador Web (Mar 2022 - Jun 2022)
+- Desarrollé endpoints REST con Java (Spring Boot) y SQL Server, asegurando seguridad y eficiencia
+- Participé en el diseño de base de datos y pruebas unitarias
+- Adquirí experiencia práctica con metodologías de trabajo de grandes consultoras tecnológicas
+
+---
+
 ### 🤝 ¿Colaboramos?
 Estoy buscando contribuir a proyectos interesantes y colaborar con otros desarrolladores. Si tienes alguna idea o proyecto, ¡escríbeme!  
-📧 dominguezalacid@gmail.com
+📧 c6rlosfern6ndez@gmail.com
