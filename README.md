@@ -6,7 +6,7 @@
 📱 **Teléfono:** 635 30 78 94  
 📧 **Email:** c6rlosfern6ndez@gmail.com  
 🌐 **Portafolio:** [https://portafolios-blond.vercel.app/](https://portafolios-blond.vercel.app/)  
-🚀 **Proyectos:** [https://whejhe.github.io/](https://whejhe.github.io/)
+🚀 **Proyectos:** [https://c6rlosfern6ndez.github.io/](https://c6rlosfern6ndez.github.io/)
 
 ---
 
